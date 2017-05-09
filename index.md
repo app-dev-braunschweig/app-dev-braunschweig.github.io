@@ -1,6 +1,6 @@
-# Welcome
+# Willkommen
 
-This is gonna be great. Totally great. Just Awesome. Believe it.
+Homepage der App Developer Gruppe Braunschweig. 
 
 ![Beautiful Braunschweig]({{ site.url}}/assets/braunschweig.jpg)
 
