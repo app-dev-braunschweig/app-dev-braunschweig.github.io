@@ -14,9 +14,10 @@ Du hast Lust nette Android und iOS Entwickler aus dem Raum Braunschweig kennenzu
 ## Organisatoren
 ### Christian Dziuba
 <img src="{{ site.url}}/assets/christian_dziuba.jpg" alt="Christian Dziuba" style="width: 100px;"/>
-[<img src="{{ site.url}}/assets/google-plus.png">](https://plus.google.com/+ChristianDziuba)
 
+[<img src="{{ site.url}}/assets/google-plus.png">](https://plus.google.com/+ChristianDziuba)
 [<img src="{{ site.url}}/assets/twitter.png">](https://twitter.com/CodeMonkey137)
+
 ### Sina Grunau
 <img src="{{ site.url}}/assets/sina_grunau.jpg" alt="Sina Grunau" style="width: 100px;"/>
 
