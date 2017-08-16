@@ -5,13 +5,13 @@ Du hast Lust nette Android und iOS Entwickler aus dem Raum Braunschweig kennenzu
 
 ![Beautiful Braunschweig]({{ site.url}}/assets/braunschweig.jpg)
 
-## Posts
+# Posts
 {% for post in site.posts %}
   {{ post.excerpt }}
   <a href="{{ post.url }}">More</a>
 {% endfor %}
 
-## Organisatoren
+# Organisatoren
 ### Christian Dziuba
 <img src="{{ site.url}}/assets/christian_dziuba.jpg" alt="Christian Dziuba" style="width: 100px;"/>
 
