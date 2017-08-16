@@ -17,3 +17,4 @@ Du hast Lust nette Android und iOS Entwickler aus dem Raum Braunschweig kennenzu
 
 ### Sina Grunau
 ![Sina Grunau]({{ site.url}}/assets/sina_grunau.jpg =50px)
+<img src="{{ site.url}}/assets/sina_grunau.jpg" alt="Sina Grunau" style="width: 50px;"/>
