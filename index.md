@@ -1,6 +1,6 @@
-Du hast Lust nette Android und iOS Entwickler aus dem Raum Braunschweig kennenzulernen und in lockerer Atmosphäre über aktuelle und spannende Themen aus der App Entwicklung zu diskutieren? Dann bist du hier genau richtig. Wir treffen uns in regelmäßigen Abständen an unterschiedlichen Orten. Die Termine werden über Google+ in der [Android Developer Community](https://plus.google.com/communities/117412745410479171419) bekannt gegeben.
+Du hast Lust nette Android und iOS Entwickler aus dem Raum Braunschweig kennenzulernen und in lockerer Atmosphäre über aktuelle und spannende Themen aus der App Entwicklung zu diskutieren? Dann bist du hier genau richtig. Wir treffen uns in einmal im Monat (jeden 3. Mittwoch im Monat) an unterschiedlichen Orten. Genaueres zu den Terminen wird über Google+ in der [Mobile Developer Community](https://plus.google.com/communities/117412745410479171419) bekannt gegeben.
 
-* [Android Developer Community](https://plus.google.com/communities/117412745410479171419)
+* [Mobile Developer Community](https://plus.google.com/communities/117412745410479171419)
 * [Slack Channel](https://android-braunschweig.slack.com/)
 
 ![Beautiful Braunschweig]({{ site.url}}/assets/braunschweig.jpg)
