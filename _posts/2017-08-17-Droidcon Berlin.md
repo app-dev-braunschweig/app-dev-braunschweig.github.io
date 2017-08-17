@@ -1,8 +1,8 @@
 # Droidcon Berlin 2017
 
-![droidcon logo](http://droidcon.de/profiles/ncms/themes/ncms/ntc_droidcon/logo.png)
-
 Wir (Sina, Thorben und Christian) sind auch dieses Jahr wieder auf der Droidcon Berlin unterwegs. Erneut warten wieder zahlreiche spannende [Vorträge](http://droidcon.de/en/program/schedule).
+
+![droidcon logo](http://droidcon.de/profiles/ncms/themes/ncms/ntc_droidcon/logo.png)
 
 Dieses Jahr zusammen mit der IFA an einem neuen Veranstaltungsort dem Berliner Messegelände. Wir sind gespannt wie sich diese Veränderungen auswirken werden. Der alte Postbahnhof hatte irgendwie auch Charme.
 
