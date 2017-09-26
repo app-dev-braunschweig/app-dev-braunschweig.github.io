@@ -2,6 +2,7 @@ Du hast Lust nette Android und iOS Entwickler aus dem Raum Braunschweig kennenzu
 
 * [Mobile Developer Community](https://plus.google.com/communities/117412745410479171419)
 * [Slack Channel](https://android-braunschweig.slack.com/)
+* [Meetup Gruppe](https://meetu.ps/c/3y4sg/yBmVZ/a)
 
 ![Beautiful Braunschweig]({{ site.url}}/assets/braunschweig.jpg)
 
